@@ -10,9 +10,9 @@ Repositório voltado para a formulação de um sistema proposto durante as aulas
 
 | Data        | Descrição                             |
 |-------------|---------------------------------------|
-| 04/03/2025  | Levantamento de Requisitos            |
-| 11/03/2025  | Diagrama de casos de uso              |
-| 18/03/2025  | Diagrama de entidade e relacionamento |
+| 11/03/2025  | Levantamento de Requisitos            |
+| 18/03/2025  | Diagrama de casos de uso              |
+| 25/03/2025  | Diagrama de entidade e relacionamento |
 
 ---
 
@@ -57,7 +57,7 @@ Restrições lógicas: O cancelamento automático só ocorre se o paciente não 
 
 Restrições tecnológicas: O sistema deve estar integrado a uma ferramenta de envio de SMS e e-mail.
                        
-#### 2.E - Histórico de alterações no Prontuário
+#### 3.E - Histórico de alterações no Prontuário
 
 Descrição: *O sistema deve registrar um histórico de todas as modificações realizadas nos prontuários eletrônicos dos pacientes. 
 Cada alteração deve incluir informações como data, hora, usuário responsável e o que foi alterado, garantindo a rastreabilidade e conformidade com normas médicas.*
@@ -75,7 +75,7 @@ Restrições lógicas: Apenas usuários autorizados podem visualizar o históric
 Restrições tecnológicas: O sistema deve garantir integridade e segurança das 
 informações 
 
-#### 3.E - Parcelamento
+#### 6.E - Parcelamento
 
 Descrição: O sistema deve permitir que pacientes optem por parcelar pagamentos de consultas e procedimentos médicos. O parcelamento poderá ser feito via cartão de crédito ou boleto bancário, de acordo com as regras definidas pela clínica.
 
