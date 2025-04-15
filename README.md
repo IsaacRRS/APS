@@ -95,6 +95,6 @@ Restrições tecnológicas: O sistema deve estar integrado a um gateway de pagam
 
 ## 📊 Diagramas
 
-#### [Visualizar Modelo de Entidade e Relacionamento](https://github.com/IsaacRRS/APS/blob/main/imagem_2025-04-12_181011731.png)
+#### [Visualizar Modelo de Entidade e Relacionamento](https://drive.google.com/file/d/1NL9wQa57z-mjw8-FbGLVFu5RVHRNajNO/view?usp=sharing)
 
-#### [Visualizar Modelo de Casos de Uso](https://drive.google.com/file/d/1EMecurEyfIIFApPSgg9M3gbBeSM0Undc/view?usp=sharing)
+#### [Visualizar Modelo de Casos de Uso](https://app.diagrams.net/#G1EMecurEyfIIFApPSgg9M3gbBeSM0Undc#%7B"pageId"%3A"f2BZB7L7TFBr1pBfXf6d"%7D)
